@@ -78,7 +78,7 @@ function elimination(eliminate) {
   }else{
     final.push(eliminate[i])
   }
- // console.log(final)
+ console.log(final)
 }
 
 var k = [2,-1,4,-3];
